@@ -49,6 +49,7 @@ a {
     text-decoration: none;
 }
 
+/* Apply styles to all <p> */
 p {
     font-size: 16px;
 }
