@@ -4,3 +4,4 @@ Refactored Horiseon's existing site to follow accessibility standards and optimi
 
 Link to deployed application: https://emilyadarr.github.io/01-challenge-horiseon/
 
+https://github.com/emilyadarr/01-challenge-horiseon/blob/main/assets/images/Screenshot%20(1).png
